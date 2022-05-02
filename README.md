@@ -5,6 +5,10 @@ Acervo de exemplos simples para usar em aplicações científicas, feitos em MAT
 - Além disso, os exemplos são acompanhados de comentários(ou markdown) explicativos, para quem quiser aprender(se não quiser, tá tudo bem) 📚
 - Na medida do possível, os exemplos também servem como "template" para fazer programas mais complexos. Assim, você evita mais trabalho 🧑‍🏭
 
+## Como obter?
+
+Basta clonar o repositório com git ou, se preferir, baixar o arquivo .zip(clicar em "Code">"Download .zip").
+
 
 ## 1. Plot de funções
 
