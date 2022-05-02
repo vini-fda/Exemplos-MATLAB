@@ -21,3 +21,7 @@ Exemplo um pouco mais avançado, que resolve um sistema massa-mola-amortecedor(a
 ## 2.3 `edo_mma_forcada.m`
 
 Exemplo que resolve um sistema massa-mola-amortecedor com uma força externa que varia com o tempo f(t).
+
+## 2.4 `edo_pendulo_simples.m`
+
+Exemplo que resolve a EDO do pêndulo simples(não-linear).
